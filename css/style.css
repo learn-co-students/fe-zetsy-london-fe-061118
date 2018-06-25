@@ -1,13 +1,22 @@
 /*////////////// Fonts //////////////*/
 
+
 /* link the web font used for the level 1 heading here */
+
+
 
 /*////////// Global Styles //////////*/
 
 body {
 	background: #F3EBE9;
-	font-size: 100%;
+	font-size: 90%;
 	font-family: 'Times New Roman', serif; 
+	
+}
+
+h1{
+  color: rgb(152,173,166);
+  font-size: 4em;
 }
 
 .wrapper {
@@ -18,3 +27,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+
+footer{ 
+  text-align: right;
+}
