@@ -3,7 +3,6 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -18,6 +17,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+
 h1{
   font-family: 'Baskerville', serif;
   font-size: 5em;
@@ -67,6 +68,10 @@ p{
 
 p a{
 text-decoration: none;
+color: #1783bb;
 }
 
+p a:hover{
+  text-decoration: underline;
+}
 
